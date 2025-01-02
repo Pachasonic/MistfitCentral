@@ -1,0 +1,11 @@
+@media only screen and (min-width: 60rem) {
+    nav {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    #viewer img {
+        width: 100%;
+    }
+
+} /* end media query*/
